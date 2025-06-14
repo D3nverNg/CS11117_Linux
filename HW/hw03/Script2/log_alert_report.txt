@@ -1,0 +1,12 @@
+Log Monitoring Report
+======================
+File: /home/denver/backup.log
+Lines Scanned: 1000
+Keywords Monitored: ERROR WARNING
+
+Number of ERRORs found: 5
+Number of WARNINGs found: 0
+
+Most Recent ERROR/WARNING Timestamp: 2025-06-14 08:22:49
+
+Status: System appears stable.
