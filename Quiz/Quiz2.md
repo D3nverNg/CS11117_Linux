@@ -1,4 +1,4 @@
-## Quiz 2
+## Quiz 2 (7 min)
 1. According to the sources, what command should be used with root privileges to safely edit the /etc/sudoers file? <br>
 a. `edit /etc/sudoers` <br>
 b. `nano /etc/sudoers` <br>

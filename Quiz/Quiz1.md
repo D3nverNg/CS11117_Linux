@@ -1,4 +1,4 @@
-## Quiz 1
+## Quiz 1 (5 min)
 1. Which character represents the parent directory in Linux paths? <br>
 a. `.` <br>
 b. `/` <br>
