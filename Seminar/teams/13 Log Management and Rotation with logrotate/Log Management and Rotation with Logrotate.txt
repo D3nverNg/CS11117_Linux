@@ -1,0 +1,8 @@
+Presentation (Canva): https://www.canva.com/design/DAGvSBl00Eg/gyJWDKZWY_JUjZdXwTadIw/edit?utm_content=DAGvSBl00Eg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Google Drive Folder (Demo Videos + PDF Slides): https://drive.google.com/drive/folders/199gJc5H6gUsEqGeg6XvieQiBYQP7sU8p?usp=sharing
+
+Reference Sources:
+1. https://man.archlinux.org/man/logrotate.conf.5
+2. https://wiki.archlinux.org/title/Logrotate
+3. https://sematext.com/glossary/log-rotation#log-rotation-best-practices

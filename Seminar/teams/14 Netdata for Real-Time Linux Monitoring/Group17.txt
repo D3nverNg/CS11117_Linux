@@ -1,0 +1,8 @@
+1. Slide trình bày netdata: 
+https://drive.google.com/file/d/1sf3ghcAZMWs0V-bTLX82Z8ZjlimtvMcN/view?usp=sharing
+2. Link video demo:
+https://drive.google.com/file/d/1OYq2d4etZrcKSTQPEX1PAZBa9VAR6QoT/view?usp=sharing
+3. Tài liệu tham khảo:
+- https://learn.netdata.cloud/
+- https://github.com/netdata/netdata
+- https://community.netdata.cloud/

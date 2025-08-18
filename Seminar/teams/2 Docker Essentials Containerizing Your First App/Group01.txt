@@ -1,0 +1,11 @@
+1. Slide - PDF: https://drive.google.com/file/d/17_CwTLAyK_E0fl3qK8BbfiYBMRWxZN7j/view?usp=sharing
+* Slide - Canva (Recommended): https://www.canva.com/design/DAGsEzVJSH8/ad01sMoGRZkr0Jt7lA6aBg/view?utm_content=DAGsEzVJSH8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha4545e11f3
+
+2. Demo Video - Youtube: https://youtu.be/kP4Sk4NhwSU
+
+3. References: *(Items are ordered by decreasing priority)*
++ Docker Tutorial for Beginners (TechWorld with Nana): https://www.youtube.com/watch?v=3c-iBn73dDE
++ Demo GitHub Repository (read README.md): https://github.com/HZeroxium/docker-demo
++ Docker Crash Course for Absolute Beginners (TechWorld with Nana): https://www.youtube.com/watch?v=pg19Z8LL06w
++ Medium article: https://medium.com/@techsuneel99/docker-from-beginner-to-expert-a-comprehensive-tutorial-5efec10c82ab
++ Docker Docs: https://docs.docker.com/

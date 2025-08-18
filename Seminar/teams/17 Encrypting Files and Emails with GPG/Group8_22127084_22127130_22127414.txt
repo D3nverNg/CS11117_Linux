@@ -1,0 +1,10 @@
+Link Slide thuyết trình:
+https://docs.google.com/presentation/d/1hKtkvFvI9OtTK9Pb4VA2Jrz3bEFxcPpF/edit?usp=sharing&ouid=100699250122775666077&rtpof=true&sd=true
+
+Link video demo:
+https://drive.google.com/file/d/1Xvpi1pavARg9ww2UlLAqgC5QBSA-ianU/view?usp=sharing
+
+Link tài liệu tham khảo:
+https://www.gnupg.org/gph/en/manual.html#AEN210
+https://en.wikipedia.org/wiki/GNU_Privacy_Guard
+https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages
