@@ -1,0 +1,9 @@
+1. Slide trình bày: https://www.canva.com/design/DAGuY5L1940/6ueyMKavDVCHSezhJxzHCw/edit?utm_content=DAGuY5L1940&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+2. Demo videos: https://drive.google.com/drive/folders/1ibnD6znjLIo6loMEwfuN1oQ3SJBcTtqJ?usp=sharing
+
+3. Interactive demo repository: https://github.com/Burncake/byojp
+
+4. Tài liệu tham khảo: 
+- Installing Jenkins: https://www.jenkins.io/doc/book/installing/
+- CI/CD Explained: https://www.youtube.com/watch?v=AknbizcLq4w

@@ -32,7 +32,7 @@ a. Run, Watch, eXchange<br>
 b. Restore, Wipe, execute<br>
 c. Recover, Work, Exit<br>
 d. Read, Write, eXecute<br>
--> c
+-> d
 
 6. Which character in the ls -l output permission string indicates that an entry is a directory?<br>
 a. `b`<br>

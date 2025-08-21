@@ -25,4 +25,6 @@
 
 * `/Seminar/teams` contains the seminar materials presented by all teams.
 
-* The final exam will be a closed-book exam. It will cover content from all 10 weeks and all seminar topics, making the overall knowledge scope quite broad.
+* The final exam will be a closed-book exam. It will cover content from all 10 weeks and all seminar topics.
+
+* Final exam 2024-2025: ~45 questions in 5 `Quiz`, ~15 questions about seminar: atop/htop/top, Nginx, Ansible,... (quite easy to guess) 
